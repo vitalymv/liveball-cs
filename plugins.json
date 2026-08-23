@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://cdn.lbs.pw/liveball/img/icon-180.png?v=1",
+        "fileHash": "sha256-72ec4c6923decfb849d575aa0173e0a7955402801f7bbc4ba09f4bc25c0fb9af",
+        "apiVersion": 1,
+        "repositoryUrl": "https://liveball.sx",
+        "fileSize": 30707,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "liveball-extension"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "LiveballProvider",
+        "description": "LiveBall — прямі трансляції футболу, хокею та баскетболу",
+        "url": "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/LiveballProvider.cs3",
+        "name": "LiveBall"
+    }
+]
