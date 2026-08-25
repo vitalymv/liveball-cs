@@ -1,0 +1,9 @@
+{
+    "name": "LiveBall Repository",
+    "description": "LiveBall — прямі трансляції футболу, хокею та баскетболу",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/plugins.json"
+    ],
+    "iconUrl": "https://cdn.lbs.pw/liveball/img/icon-180.png?v=1"
+}
