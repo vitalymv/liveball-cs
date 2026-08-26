@@ -16,7 +16,7 @@
         "version": 3,
         "internalName": "LiveballProvider",
         "description": "LiveBall — прямі трансляції футболу, хокею та баскетболу",
-        "url": "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/LiveballProvider.cs3",
+        "url": "https://raw.githubusercontent.com/vitalymv/liveball-cs/main/LiveballProvider.cs3",
         "name": "LiveBall"
     }
 ]
