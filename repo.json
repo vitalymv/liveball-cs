@@ -3,7 +3,7 @@
     "description": "LiveBall (спортивні трансляції) та Книга в Ухе (аудіокниги) для CloudStream",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/plugins.json"
+        "https://raw.githubusercontent.com/vitalymv/liveball-cs/main/plugins.json"
     ],
     "iconUrl": "https://cdn.lbs.pw/liveball/img/icon-180.png?v=1"
 }
