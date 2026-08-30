@@ -33,7 +33,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "KnigavuheProvider",
         "description": "Книга в Ухе (knigavuhe.org) — аудиокниги онлайн",
         "url": "https://raw.githubusercontent.com/vitalymv/liveball-cs/main/KnigavuheProvider.cs3",
