@@ -16,27 +16,27 @@
         "version": 3,
         "internalName": "LiveballProvider",
         "description": "LiveBall — прямі трансляції футболу, хокею та баскетболу",
-        "url": "https://raw.githubusercontent.com/vitalymv/liveball-cs/main/LiveballProvider.cs3",
+        "url": "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/LiveballProvider.cs3",
         "name": "LiveBall"
     },
     {
         "iconUrl": "https://static.knigavuhe.org/images/pwa/apple-touch-icon-180x180.png",
-        "fileHash": "sha256-bba52b1ec7e7d157b0f72804fcfa687cbb402e2cbda87b89cff2b0193b808a2a",
+        "fileHash": "sha256-8a07887622c2acd30a7f66d2fec1dee9f3e3abb8d5b98758610aad61309104c9",
         "apiVersion": 1,
         "repositoryUrl": "https://knigavuhe.org",
-        "fileSize": 18735,
+        "fileSize": 18723,
         "status": 1,
-        "language": "ru",
+        "language": "uk",
         "authors": [
             "vitalii"
         ],
         "tvTypes": [
-            "Others"
+            "AudioBook"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "KnigavuheProvider",
-        "description": "Книга в Ухе (knigavuhe.org) — аудиокниги онлайн",
-        "url": "https://raw.githubusercontent.com/vitalymv/liveball-cs/main/KnigavuheProvider.cs3",
+        "description": "Книга в Ухе (knigavuhe.org) — аудіокниги онлайн",
+        "url": "https://raw.githubusercontent.com/USERNAME/liveball-cs/main/KnigavuheProvider.cs3",
         "name": "Книга в Ухе"
     }
 ]
